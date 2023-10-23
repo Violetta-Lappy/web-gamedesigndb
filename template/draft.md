@@ -3,24 +3,33 @@ title: Insert Game Title Here
 author: hoanglongplanner
 date: 01-01-0001
 linkcolor: blue
+toc: true
 ---
 
-# Table of Contents
-- [Table of Contents](#table-of-contents)
-- [Market Analysis Overview](#market-analysis-overview)
-  - [Key Selling Point / Unique Selling Point](#key-selling-point--unique-selling-point)
+\pagebreak
+
+# Table of Contents (for Web)
+- [Table of Contents (for Web)](#table-of-contents-for-web)
+- [Market Analyze](#market-analyze)
+  - [Key Selling Point n Unique Selling Point (KSP USP)](#key-selling-point-n-unique-selling-point-ksp-usp)
   - [Target Audience](#target-audience)
   - [Game Package](#game-package)
 - [Game Design](#game-design)
   - [Game Content](#game-content)
-  - [Game Mechanics / Features](#game-mechanics--features)
-- [Critical Reflections](#critical-reflections)
-- [Abandonned](#abandonned)
+  - [Game Mechanics n Features](#game-mechanics-n-features)
+- [Art Design](#art-design)
+  - [Moodboard](#moodboard)
+  - [Style](#style)
+- [Misc](#misc)
+  - [Critical Reflection](#critical-reflection)
+  - [Abandon Feature](#abandon-feature)
 - [References](#references)
 
-# Market Analysis Overview
+\pagebreak
 
-## Key Selling Point / Unique Selling Point
+# Market Analyze
+
+## Key Selling Point n Unique Selling Point (KSP USP)
 
 ## Target Audience
 
@@ -36,16 +45,24 @@ linkcolor: blue
 What content presented for the buyer to feel
 - Level Packs
 
-## Game Mechanics / Features
+## Game Mechanics n Features
 
-# Critical Reflections
+# Art Design
+
+## Moodboard
+
+## Style
+
+# Misc
+
+## Critical Reflection
 Certain design elements
 
 Game feel
 
 Difficulty
 
-# Abandonned
+## Abandon Feature
 
 # References
 - Links here
